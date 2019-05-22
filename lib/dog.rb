@@ -9,3 +9,5 @@ end
 
 
 spark = Dog.new
+spark.bark
+spark.sit
