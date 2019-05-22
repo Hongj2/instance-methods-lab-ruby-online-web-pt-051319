@@ -5,3 +5,4 @@ end
 
 
 jon = Person.new
+jon.talk
